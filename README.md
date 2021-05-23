@@ -17,3 +17,7 @@ Because of how rotten the ad tracking paradigm has gotten in the past years. The
 That's the whole reason clickbaity titles exist. Webpages (for the most part) generate revenue by showing ads. To guarantee clicks to their website and the accompanying mindshare of these ad placements they tend to write titles in ambiguous, often controversial ways to lure people in.
 
 This project was in part motivated by [Signal's genius ad campaing where they showed how far data collection mechanisms go](https://signal.org/blog/the-instagram-ads-you-will-never-see/).
+
+## How?
+
+To use the bot just reply to a tweet and mention it: `@HookLineClicker`.
